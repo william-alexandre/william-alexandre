@@ -2,7 +2,7 @@
 <h1 align="center">Oi 👋, eu sou WIlliam</h1>
 <h3 align="center">Entusiasta em tecnologia, Focado em Data Science</h3>
 
-- 🔭 Atualmente eu trabalho como **Analista de T.I.**
+- 🔭 Atualmente eu trabalho como **Analista de Sistemas e T.I.**
 
 - 🌱 Atualmente estou me aperfeiçõando em **Data Science | Data Analyst | SQL, Python, Power BI**
 
